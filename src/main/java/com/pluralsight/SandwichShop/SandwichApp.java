@@ -80,6 +80,8 @@ public class SandwichApp {
         //display the total
         System.out .printf("sammy total: $%.2f", total);
 
+        ,
+
 
 
 
